@@ -1,3 +1,0 @@
-This is SMALL MISTAKE commit!
-
-And here we go with commit #2!
